@@ -17,3 +17,5 @@ In the Backend part the water consumption analysis (updation of Volume used) can
 making a report on it and also alerting the conserved person if the usage exceeds a limit. The usage of many components can be minimised 
 if one implements  the same idea with ML based technique such as using only a camera module to detect and analyze both water wastage (water dropping from the tap) and 
 activity of people and alert them if it meets the usage constraints.
+
+Highlights : We have also created a Webpage to monitor the Volume of water Consumed Periodically using Socket in VSCode.
